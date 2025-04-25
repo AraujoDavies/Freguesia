@@ -1,7 +1,7 @@
 
 # Analise método Freguesia
 
-Data de atualizacao: 24/04/2025
+Data de atualizacao: 25/04/2025
 
 Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
@@ -22,8 +22,6 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 | 04/2025  |                       8 |                    5 |                  3 |     -0.0600001 |                        3 |                     3 |                   0 |            1.81 |       1.75 |
 
  # Próximas entradas 
-
-[SUPERSPORT-UTD X PIRATES - (africa-do-sul/premier-soccer-league)](https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/supersport-utd/pirates/kznmOqOlKYxJd)
 
 [NACIONAL X WANDERERS - (uruguai/primera-division)](https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/nacional/wanderers/zjJmW156aYbBP)
 
