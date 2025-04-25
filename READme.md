@@ -21,7 +21,7 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 | 03/2025  |                      13 |                    8 |                  5 |     -0.62      |                        6 |                     5 |                   1 |            2.12 |       1.5  |
 | 04/2025  |                       8 |                    5 |                  3 |     -0.0600001 |                        3 |                     3 |                   0 |            1.81 |       1.75 |
 
- # Próximos sinais 
+ # Próximas entradas 
 
 [SUPERSPORT-UTD X PIRATES - (africa-do-sul/premier-soccer-league)](https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/supersport-utd/pirates/kznmOqOlKYxJd)
 

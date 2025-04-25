@@ -284,7 +284,7 @@ Resultado mensal últimos 12 meses pegando ODDS entre {odd_min} e {odd_max}
 
     markdown += df_markdown
 
-    markdown += """\n\n # Próximos sinais \n\n"""
+    markdown += """\n\n # Próximas entradas \n\n"""
 
     for mandante, visitante, campeonato, url in proximas_entradas:
         markdown += f"[{mandante.upper()} X {visitante.upper()} - ({campeonato})]({url})\n\n"
@@ -297,10 +297,7 @@ Resultado mensal últimos 12 meses pegando ODDS entre {odd_min} e {odd_max}
 hoje = datetime.now() - timedelta(days=1) # é normal contar como o dia atual
 amanha = datetime.now() # + timedelta(days=1)
 dps_de_amanha = datetime.now() + timedelta(days=1)
-criar_readme()
 
-import sys
-sys.exit()
 
 for i in range(-5, 7, 1):
     hoje = datetime.now() - timedelta(days=i) # é normal contar como o dia atual para gerar o timestamp
