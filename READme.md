@@ -1,7 +1,7 @@
 
 # Analise método Freguesia
 
-Data de atualizacao: 27/04/2025
+Data de atualizacao: 01/05/2025
 
 Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
@@ -24,13 +24,7 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
  # Próximas entradas 
 
-[GODOY-CRUZ X ATL-TUCUMAN - (argentina/superliga-argentina)](https://www.academiadasapostasbrasil.com/stats/match/argentina/superliga-argentina/godoy-cruz/atl-tucuman/1nXYLpkvlY3RB)
+[2025-05-02 | BOSTON-RIVER X CERRO - uruguai/primera-division](https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/boston-river/cerro/vL2Z2jNxxZPAM)
 
-[BLAUBLITZ X TOKUSHIMA - (japao/liga-j2)](https://www.academiadasapostasbrasil.com/stats/match/japao/liga-j2/blaublitz/tokushima/1L9Qaep5oQoPd)
-
-[MAMELODI X RICHARDS-BAY - (africa-do-sul/premier-soccer-league)](https://www.academiadasapostasbrasil.com/stats/match/africa-do-sul/premier-soccer-league/mamelodi/richards-bay/pj1Q9jeA9Yb3k)
-
-[BOSTON-RIVER X CERRO - (uruguai/primera-division)](https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/boston-river/cerro/vL2Z2jNxxZPAM)
-
-[GRENOBLE X TROYES - (franca/ligue-2)](https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-2/grenoble/troyes/7A1QdbD92Z5Mb)
+[2025-05-02 | GRENOBLE X TROYES - franca/ligue-2](https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-2/grenoble/troyes/7A1QdbD92Z5Mb)
 
