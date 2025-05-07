@@ -1,7 +1,7 @@
 
 # Analise método Freguesia
 
-Data de atualizacao: 04/05/2025
+Data de atualizacao: 07/05/2025
 
 Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
@@ -23,11 +23,17 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
  # Próximas entradas 
 
-[2025-05-02 | BOSTON-RIVER X CERRO - uruguai/primera-division](https://www.academiadasapostasbrasil.com/stats/match/uruguai/primera-division/boston-river/cerro/vL2Z2jNxxZPAM)
-
 [2025-05-09 | CITTADELLA X BARI - italia/serie-b](https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/cittadella/bari/Ao2Z7vvr1YpbV)
+
+[2025-05-09 | FEIRENSE X MAFRA - portugal/liga-sabseg](https://www.academiadasapostasbrasil.com/stats/match/portugal/liga-sabseg/feirense/mafra/3DKQqVK2BYzEW)
 
 [2025-05-10 | MONTPELLIER X PSG - franca/ligue-1](https://www.academiadasapostasbrasil.com/stats/match/franca/ligue-1/montpellier/psg/ajxQRAEK6mBe1)
 
 [2025-05-10 | BOCHUM X MAINZ-05 - alemanha/bundesliga](https://www.academiadasapostasbrasil.com/stats/match/alemanha/bundesliga/bochum/mainz-05/DWdYeVJWzZv51)
+
+[2025-05-11 | BOAVISTA X PORTO - portugal/primeira-liga](https://www.academiadasapostasbrasil.com/stats/match/portugal/primeira-liga/boavista/porto/3DKQqVwEEYzEW)
+
+[2025-05-11 | NAPOLI X GENOA - italia/serie-a-tim](https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/napoli/genoa/8oPZrV28pZyJd)
+
+[2025-05-13 | BRESCIA X REGGIANA - italia/serie-b](https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/brescia/reggiana/EyAmAllbMZ2po)
 

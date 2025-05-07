@@ -266,7 +266,7 @@ def criar_readme():
     odd_max = 1.95
     with engine.begin() as conn:
         dados = conn.execute(text(SELECT_RESULTADO_MENSAL.replace("@odd_max", str(odd_max)).replace("@odd_min", str(odd_min)))).fetchall()
-        proximas_entradas = conn.execute(text("Select mandante, visitante, campeonato, url from academia.padrao_freguesia where resultado IS NULL order by data_partida;")).fetchall()
+        proximas_entradas = conn.execute(text("Select mandante, visitante, campeonato, url, data_partida from academia.padrao_freguesia where resultado IS NULL order by data_partida;")).fetchall()
 
     df = pd.DataFrame(dados)
     df['mensal'] = df['mensal'].map(lambda x: x.strftime("%m/%Y"))
@@ -286,12 +286,11 @@ Resultado mensal últimos 12 meses pegando ODDS entre {odd_min} e {odd_max}
 
     markdown += """\n\n # Próximas entradas \n\n"""
 
-    for mandante, visitante, campeonato, url in proximas_entradas:
-        markdown += f"[{mandante.upper()} X {visitante.upper()} - ({campeonato})]({url})\n\n"
+    for mandante, visitante, campeonato, url, data_partida in proximas_entradas:
+        markdown += f"[{data_partida} | {mandante.upper()} X {visitante.upper()} - {campeonato}]({url})\n\n"
 
     with open('READme.md', 'w', encoding="utf-8") as f:
         f.write(markdown)
-
 
 
 hoje = datetime.now() - timedelta(days=1) # é normal contar como o dia atual
