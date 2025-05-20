@@ -1,7 +1,7 @@
 
 # Analise método Freguesia
 
-Data de atualizacao: 13/05/2025
+Data de atualizacao: 20/05/2025
 
 Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
@@ -23,23 +23,17 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
  # Próximas entradas 
 
-[2025-05-13 | BRESCIA X REGGIANA - italia/serie-b](https://www.academiadasapostasbrasil.com/stats/match/italia/serie-b/brescia/reggiana/EyAmAllbMZ2po)
+[2025-05-21 | SPORTIVO-AMEL X CERRO-PORTENO - paraguai/division-profesional](https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/sportivo-amel/cerro-porteno/6wdZbjDNzZ73J)
 
-[2025-05-14 | ALMERE X FORTUNA - holanda/eredivisie](https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/almere/fortuna/aE1myV6x6Qy3X)
+[2025-05-22 | PANAITOLIKOS X PANSERRAIKOS - grecia/super-liga](https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/panaitolikos/panserraikos/7A1QdjzqPZ5Mb)
 
-[2025-05-14 | FEYENOORD X WAALWIJK - holanda/eredivisie](https://www.academiadasapostasbrasil.com/stats/match/holanda/eredivisie/feyenoord/waalwijk/l2OZXXz55Z7Wb)
+[2025-05-23 | AYACUCHO X UNIVERSITARIO - peru/primera-division](https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/ayacucho/universitario/7A1Qdjew9Z5Mb)
 
-[2025-05-15 | VARNAMO X MALMO - suecia/allsvenskan](https://www.academiadasapostasbrasil.com/stats/match/suecia/allsvenskan/varnamo/malmo/kznmOqyKMYxJd)
+[2025-05-23 | KTP X HAKA - finlandia/veikkausliiga](https://www.academiadasapostasbrasil.com/stats/match/finlandia/veikkausliiga/ktp/haka/gb0QG5d9PZalR)
 
-[2025-05-16 | OHL X WESTERLO - belgica/1e-klasse](https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/ohl/westerlo/o1qZpVwB4Qn5B)
+[2025-05-24 | SAO-PAULO X MIRASSOL - brasil/brasileirao-serie-a](https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/sao-paulo/mirassol/l2OZXd0rRZ7Wb)
 
-[2025-05-18 | SEVILLA X REAL-MADRID - espanha/la-liga](https://www.academiadasapostasbrasil.com/stats/match/espanha/la-liga/sevilla/real-madrid/DWdYeb9qbZv51)
+[2025-05-24 | LEGANES X VALLADOLID - espanha/la-liga](https://www.academiadasapostasbrasil.com/stats/match/espanha/la-liga/leganes/valladolid/R2zmkjobzZ08o)
 
-[2025-05-18 | BAHIA X VITORIA - brasil/brasileirao-serie-a](https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/bahia/vitoria/g0WZv2q6RZLJv)
-
-[2025-05-18 | REAL-SOCIEDAD X GIRONA - espanha/la-liga](https://www.academiadasapostasbrasil.com/stats/match/espanha/la-liga/real-sociedad/girona/yjxZ8W0aMY23v)
-
-[2025-05-18 | LECCE X TORINO - italia/serie-a-tim](https://www.academiadasapostasbrasil.com/stats/match/italia/serie-a-tim/lecce/torino/qgjYVr8W0Y6wy)
-
-[2025-05-19 | BRONDBY X MIDTJYLLAND - dinamarca/superligaen](https://www.academiadasapostasbrasil.com/stats/match/dinamarca/superligaen/brondby/midtjylland/LPBY6jX48Y2OG)
+[2025-05-24 | WESTERLO X STANDARD - belgica/1e-klasse](https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/westerlo/standard/kznmOqp1eYxJd)
 
