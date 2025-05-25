@@ -1,7 +1,7 @@
 
 # Analise método Freguesia
 
-Data de atualizacao: 20/05/2025
+Data de atualizacao: 25/05/2025
 
 Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
@@ -23,17 +23,13 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
  # Próximas entradas 
 
-[2025-05-21 | SPORTIVO-AMEL X CERRO-PORTENO - paraguai/division-profesional](https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/sportivo-amel/cerro-porteno/6wdZbjDNzZ73J)
-
-[2025-05-22 | PANAITOLIKOS X PANSERRAIKOS - grecia/super-liga](https://www.academiadasapostasbrasil.com/stats/match/grecia/super-liga/panaitolikos/panserraikos/7A1QdjzqPZ5Mb)
-
 [2025-05-23 | AYACUCHO X UNIVERSITARIO - peru/primera-division](https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/ayacucho/universitario/7A1Qdjew9Z5Mb)
 
-[2025-05-23 | KTP X HAKA - finlandia/veikkausliiga](https://www.academiadasapostasbrasil.com/stats/match/finlandia/veikkausliiga/ktp/haka/gb0QG5d9PZalR)
+[2025-05-26 | RB-BRAGANTINO X JUVENTUDE - brasil/brasileirao-serie-a](https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/rb-bragantino/juventude/EGoYj61rJYqba)
 
-[2025-05-24 | SAO-PAULO X MIRASSOL - brasil/brasileirao-serie-a](https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/sao-paulo/mirassol/l2OZXd0rRZ7Wb)
+[2025-05-27 | AMERICA-MG X ATLETICO-GO - brasil/serie-b](https://www.academiadasapostasbrasil.com/stats/match/brasil/serie-b/america-mg/atletico-go/yjxZ8G50jY23v)
 
-[2025-05-24 | LEGANES X VALLADOLID - espanha/la-liga](https://www.academiadasapostasbrasil.com/stats/match/espanha/la-liga/leganes/valladolid/R2zmkjobzZ08o)
+[2025-05-27 | TAMMEKA X TALLINNA-KALEV - estonia/meistriliiga](https://www.academiadasapostasbrasil.com/stats/match/estonia/meistriliiga/tammeka/tallinna-kalev/KwNmzO4M8QaM5)
 
-[2025-05-24 | WESTERLO X STANDARD - belgica/1e-klasse](https://www.academiadasapostasbrasil.com/stats/match/belgica/1e-klasse/westerlo/standard/kznmOqp1eYxJd)
+[2025-05-29 | BREIDABLIK X IA - islandia/landsbankadeild-karla](https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/breidablik/ia/EyAmAlBDzZ2po)
 
