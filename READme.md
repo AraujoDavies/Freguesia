@@ -1,7 +1,7 @@
 
 # Analise método Freguesia
 
-Data de atualizacao: 25/05/2025
+Data de atualizacao: 28/05/2025
 
 Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
@@ -25,11 +25,9 @@ Resultado mensal últimos 12 meses pegando ODDS entre 1.25 e 1.95
 
 [2025-05-23 | AYACUCHO X UNIVERSITARIO - peru/primera-division](https://www.academiadasapostasbrasil.com/stats/match/peru/primera-division/ayacucho/universitario/7A1Qdjew9Z5Mb)
 
-[2025-05-26 | RB-BRAGANTINO X JUVENTUDE - brasil/brasileirao-serie-a](https://www.academiadasapostasbrasil.com/stats/match/brasil/brasileirao-serie-a/rb-bragantino/juventude/EGoYj61rJYqba)
-
-[2025-05-27 | AMERICA-MG X ATLETICO-GO - brasil/serie-b](https://www.academiadasapostasbrasil.com/stats/match/brasil/serie-b/america-mg/atletico-go/yjxZ8G50jY23v)
-
-[2025-05-27 | TAMMEKA X TALLINNA-KALEV - estonia/meistriliiga](https://www.academiadasapostasbrasil.com/stats/match/estonia/meistriliiga/tammeka/tallinna-kalev/KwNmzO4M8QaM5)
-
 [2025-05-29 | BREIDABLIK X IA - islandia/landsbankadeild-karla](https://www.academiadasapostasbrasil.com/stats/match/islandia/landsbankadeild-karla/breidablik/ia/EyAmAlBDzZ2po)
+
+[2025-05-30 | GENERAL-CABALLERO-JLM X NACIONAL - paraguai/division-profesional](https://www.academiadasapostasbrasil.com/stats/match/paraguai/division-profesional/general-caballero-jlm/nacional/qdPZDOB4qY81J)
+
+[2025-05-30 | WEST-COAST-RANGERS X AUCKLAND - nova-zelandia/national-league](https://www.academiadasapostasbrasil.com/stats/match/nova-zelandia/national-league/west-coast-rangers/auckland/o1qZpVKP8Qn5B)
 
